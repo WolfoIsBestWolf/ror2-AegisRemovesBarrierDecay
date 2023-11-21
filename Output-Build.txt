@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: AegisRemovesBarrierDecay, Configuration: Debug Any CPU ------
+1>C:\Users\maxha\Desktop\ror2-AegisRemovesBarrierDecay\AegisRemovesBarrierDecay\AegisRemovesBarrierDecay.csproj : warning NU1701: Package 'MMHOOK.RoR2 2022.4.19' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.
+1>AegisRemovesBarrierDecay -> C:\Users\maxha\Desktop\ror2-AegisRemovesBarrierDecay\AegisRemovesBarrierDecay\bin\Debug\netstandard2.0\AegisRemovesBarrierDecay.dll
+1>Done building project "AegisRemovesBarrierDecay.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

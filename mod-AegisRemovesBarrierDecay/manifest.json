@@ -1,0 +1,11 @@
+{
+    "name": "AegisRemovesBarrierDecay",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "If you have Aegis Barrier no longer decays. A suitable simple buff.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1",
+        "RiskofThunder-R2API_Language-1.0.1"
+    ]
+}
