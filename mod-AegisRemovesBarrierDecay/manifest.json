@@ -1,8 +1,8 @@
 {
     "name": "AegisRemovesBarrierDecay",
-    "version_number": "1.0.0",
-    "website_url": "",
-    "description": "If you have Aegis Barrier no longer decays. A suitable simple buff.",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/WolfoIsBestWolf/ror2-AegisRemovesBarrierDecay",
+    "description": "If you have Aegis, barrier no longer decays over time. A simple suitable buff.",
     "dependencies": [
         "bbepis-BepInExPack-5.4.9",
 		"RiskofThunder-HookGenPatcher-1.2.1",

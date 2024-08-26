@@ -1,4 +1,4 @@
-If you have Aegis, your temporary barrier is no longer temporary.
+If you have Aegis, your temporary barrier no longer decays over time.
 
 This makes the barrier you get from Aegis actually stick around as opposed to immediately decaying.\
 Also helps any other source of Barrier such as Topaz Brooches.\
