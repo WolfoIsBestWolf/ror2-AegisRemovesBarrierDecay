@@ -7,7 +7,7 @@ using UnityEngine;
 namespace AegisRemovesBarrierDecay
 {
     [BepInDependency(LanguageAPI.PluginGUID)]
-    [BepInPlugin("com.Wolfo.AegisRemovesBarrierDecay", "AegisRemovesBarrierDecay", "1.0.0")]
+    [BepInPlugin("com.Wolfo.AegisRemovesBarrierDecay", "AegisRemovesBarrierDecay", "1.0.1")]
     public class AegisRemovesBarrierDecay : BaseUnityPlugin
     {
         public void Awake()
